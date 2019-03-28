@@ -1,7 +1,3 @@
 Welcome friends
 
-aseasefase
-
-asfdasdfasd
-
-<sdf<fd>>
+This is my last version.
